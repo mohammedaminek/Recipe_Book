@@ -1,0 +1,36 @@
+.container {
+  max-width: 400px;
+  margin: 200px auto;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: #007bff;
+  color: white;
+  border-radius: 10px 10px 0 0;
+  padding: 15px;
+  text-align: center;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border: none;
+  width: 100%;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+}
